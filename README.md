@@ -4,6 +4,19 @@ Versi 1.00 Suda di Rilis di Versi Website dan Untk Versi Android Segera Akan Men
 Pasilitas Situs Untuk Konsument Penguna Jasa dan Produk
 Pasilitas Situs Untuk Vendor Semua Individu atau Badan Bisa Menjual Paket Wisata di Situs sabalad.com 
 
+# Pasilitas Website
+- Jual Kamar Hotel
+- Jual Villa Perhari
+- Jual Paket Tour
+- Rencar Mobil Harian
+- Jual Tiket Event
+- Jual Tiket Boot
+- Jual Produk Sovenir Objek Wisata
+- Informasi Wisata 
+- Komisi Penjualan Bagi Member yang Bergabung di sabalad.com
+- Reting Hotel dan Pelayanan
+- Google Maps Api
+
 # Fitur Member 
 - Join Menggunkan Email & Social Login
 - Affiliti Program 7 Level Komisi Dari Booking Hotel, Tour, Speace, Car, Event, Flight, Boat dan Penjualan Produk Online shop
