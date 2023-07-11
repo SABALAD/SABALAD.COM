@@ -209,7 +209,7 @@ return [
         App\Providers\AdminRouteServiceProvider::class,
         Propaganistas\LaravelPhone\PhoneServiceProvider::class,
 
-
+        Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
     ],
 
