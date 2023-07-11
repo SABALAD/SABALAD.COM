@@ -1,0 +1,28 @@
+{
+  "files.associations": {
+    "*.module": "php"
+  },
+  "intelephense.files.associations": [
+    "*.php",
+    "*.phtml"
+  ],
+  "intelephense.environment.documentRoot": "./public",
+  "intelephense.environment.includePaths": [
+    "./vendor"
+  ],
+  "intelephense.environment.phpVersion": "8.2.0",
+  "intelephense.files.exclude": [
+    "**/.git/**",
+    "**/.svn/**",
+    "**/.hg/**",
+    "**/CVS/**",
+    "**/.DS_Store/**",
+    "**/node_modules/**",
+    "**/bower_components/**",
+    "**/vendor/**/{Tests,tests}/**",
+    "**/.history/**"
+  ],
+  "intelephense.references.exclude": [],
+  "intelephense.completion.fullyQualifyGlobalConstantsAndFunctions": true,
+  "intelephense.trace.server": "messages"
+}
